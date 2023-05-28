@@ -1,0 +1,82 @@
+{
+  "id": "ose-content-fr",
+  "title": "La bonne tambouille - Old School Essentials - Français",
+  "description": "Le contenu d'Old-School Essentials, en français. Et un peu plus.",
+  "version": "1.0.0",
+  "relationships": {
+    "systems": [
+      {
+        "id": "ose",
+        "type": "system",
+        "manifest": "https://github.com/vttred/ose/releases/latest/download/system.json",
+        "compatibility": {
+          "minimum": "1.8.0",
+          "verified": "1.9.1"
+        }
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "jananass",
+      "url": "https://github.com/jananass"
+    },
+    {
+      "name": "OGL COPYRIGHT NOTICE",
+      "url": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/blob/main/LICENSES/LicenseRef-OGL-1.0a.txt"
+    }
+  ],
+  "packs": [
+    {
+      "name": "monsters",
+      "label": "Monstres",
+      "path": "packs/monsters.db",
+      "type": "Actor",
+      "system": "ose"
+    },
+    {
+      "name": "random_tables",
+      "label": "Tables d'aléatoire",
+      "path": "packs/random_tables.db",
+      "type": "RollTable",
+      "system": "ose"
+    },
+    {
+      "name": "equipment",
+      "label": "Équipement",
+      "path": "packs/equipment.db",
+      "type": "Item",
+      "system": "ose"
+    },
+    {
+      "name": "treasures",
+      "label": "Trésors",
+      "path": "packs/treasures.db",
+      "type": "Item",
+      "system": "ose"
+    },
+    {
+      "name": "spells",
+      "label": "Sorts",
+      "path": "packs/spells.db",
+      "type": "Item",
+      "system": "ose"
+    },
+    {
+      "name": "abilities",
+      "label": "Compétences",
+      "path": "packs/abilities.db",
+      "type": "Item",
+      "system": "ose"
+    }
+  ],
+  "compatibility": {
+    "minimum": "5",
+    "verified": "11",
+    "maximum": "11"
+  },
+  "license": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/blob/main/LICENSES/LicenseRef-OGL-1.0a.txt",
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
