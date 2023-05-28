@@ -1,5 +1,5 @@
 {
-  "id": "ose-content-fr",
+  "id": "la-bonne-tambouille",
   "title": "La bonne tambouille - Old School Essentials - Français",
   "description": "Le contenu d'Old-School Essentials, en français. Et un peu plus.",
   "version": "1.0.0",
@@ -20,10 +20,6 @@
     {
       "name": "jananass",
       "url": "https://github.com/jananass"
-    },
-    {
-      "name": "OGL COPYRIGHT NOTICE",
-      "url": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/blob/main/LICENSES/LicenseRef-OGL-1.0a.txt"
     }
   ],
   "packs": [
@@ -74,9 +70,8 @@
     "minimum": "5",
     "verified": "11",
     "maximum": "11"
-  },
-  "license": "https://github.com/unitedfantasytoolkit/classicfantasycompendium/blob/main/LICENSES/LicenseRef-OGL-1.0a.txt",
-  "url": "",
-  "manifest": "",
-  "download": ""
+  }
+  "url": "https://github.com/jananass/la-bonne-tambouille",
+  "manifest": "https://github.com/jananass/la-bonne-tambouille/releases/latest/download/module.json",
+  "download": "https://github.com/jananass/la-bonne-tambouille/releases/download/1.0.0/module.zip"
 }
