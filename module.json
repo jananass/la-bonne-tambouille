@@ -2,7 +2,7 @@
   "id": "la-bonne-tambouille",
   "title": "La bonne tambouille - Old School Essentials - Français",
   "description": "Le contenu d'Old-School Essentials, en français. Et un peu plus.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "relationships": {
     "systems": [
       {
@@ -73,5 +73,5 @@
   },
   "url": "https://github.com/jananass/la-bonne-tambouille",
   "manifest": "https://github.com/jananass/la-bonne-tambouille/releases/latest/download/module.json",
-  "download": "https://github.com/jananass/la-bonne-tambouille/releases/download/1.0.0/module.zip"
+  "download": "https://github.com/jananass/la-bonne-tambouille/releases/download/1.0.1/module.zip"
 }
