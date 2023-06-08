@@ -10,12 +10,11 @@ Vous pouvez trouver cette add-on sous le nom de `la-bonne-tambouille` dans l'out
 
 ## TODO List
 
-- [X] Equipements ![](https://geps.dev/progress/100)
-- [ ] Capacités ![](https://geps.dev/progress/0)
-- [ ] Monstres ![](https://geps.dev/progress/15)
+- [X] Equipements : :wrench::hammer::wrench::pick::wrench::hammer::wrench::hammer::wrench::department_store:
+- [ ] Compétences : :muscle::pouting_face::pouting_woman::pouting_man::pouting_woman::pouting_face::pouting_woman::pouting_man::pouting_face::pouting_man:
+- [ ] Monstres : :wolf::dragon_face::sheep::sheep::sheep::sheep::sheep::sheep::sheep::sheep:
     - (21/138) Restant : de Chien Esquiveur à Zombie
-- [ ] Tables d'Aléatoires ![](https://geps.dev/progress/80)
+- [ ] Sorts :mage::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree:
+- [ ] Tables d'Aléatoires :five::two::one::four::six::six::one::game_die::red_square::red_square:
     - Restant : Rencontres en Terres Sauvage
-- [ ] Trésors ![](https://geps.dev/progress/0)
-- [ ] Sorts ![](https://geps.dev/progress/0)
-- [ ] Compétences ![](https://geps.dev/progress/0)
+- [ ] Trésors :mag_right::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building:
