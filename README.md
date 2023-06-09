@@ -11,7 +11,9 @@ Vous pouvez trouver cette add-on sous le nom de `la-bonne-tambouille` dans l'out
 ## Roadmap
 
 1.0.X -> Ajouts consécutifs du contenu officiel
+
 1.1.0 -> Release avec tout le contenu officiel du jeu de base
+
 1.2.0 -> Ajout de contenu additionnel (à définir)
 
 ## TODO List
