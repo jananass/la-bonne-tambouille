@@ -11,7 +11,7 @@
         "manifest": "https://github.com/vttred/ose/releases/latest/download/system.json",
         "compatibility": {
           "minimum": "1.8.0",
-          "verified": "1.9.1"
+          "verified": "1.9.3"
         }
       }
     ]
@@ -60,9 +60,23 @@
     },
     {
       "name": "abilities",
-      "label": "Compétences",
+      "label": "Aptitudes",
       "path": "packs/abilities.db",
       "type": "Item",
+      "system": "ose"
+    },
+    {
+      "name": "journal_documents",
+      "label": "Documents",
+      "path": "packs/journal_documents.db",
+      "type": "JournalEntry",
+      "system": "ose"
+    },
+    {
+      "name": "macros",
+      "label": "Macros",
+      "path": "packs/macros.db",
+      "type": "Macro",
       "system": "ose"
     }
   ],
