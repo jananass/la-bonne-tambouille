@@ -19,15 +19,15 @@ Vous pouvez trouver cette add-on sous le nom de `la-bonne-tambouille` dans l'out
 ## TODO List
 
 - [X] Equipements : :wrench::hammer::wrench::pick::wrench::hammer::wrench::hammer::wrench::department_store:
-- [ ] Compétences : :muscle::pouting_face::pouting_woman::pouting_man::pouting_woman::pouting_face::pouting_woman::pouting_man::pouting_face::pouting_man:
-- [ ] Monstres : :wolf::dragon_face::sheep::sheep::sheep::sheep::sheep::sheep::sheep::sheep:
-    - [X] A
-    - [X] B
-    - [X] C
-    - [ ] D
+- [X] Classes / Compétences : :princess::snowboarder::person_with_turban::golfing::guard::surfer::weight_lifting::horse_racing::construction_worker::muscle:
+- [ ] Monstres : :wolf::bee::dragon_face::sheep::sheep::sheep::sheep::sheep::sheep::sheep:
+    - [X] A...C
+    - [X] D
     - [ ] E
-    - [ ] F...Z
-- [ ] Sorts :mage::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree:
+    - [ ] F
+    - [ ] G...Z
+- [ ] Sorts :scroll::notebook::crystal_ball::star2::rabbit2::mage::evergreen_tree::evergreen_tree::evergreen_tree::evergreen_tree:
+    - Sorts de magiciens : 0  
 - [ ] Tables d'Aléatoires :five::two::one::four::six::six::one::game_die::red_square::red_square:
     - Restant : Rencontres en Terres Sauvage
 - [ ] Trésors :mag_right::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building::classical_building:
